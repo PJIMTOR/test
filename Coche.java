@@ -5,7 +5,7 @@ import java.util.*;
  * 
  */
 public class Coche {
-
+	String nombre;
     /**
      * Default constructor
      */
